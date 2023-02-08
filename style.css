@@ -168,7 +168,7 @@ strong {
 
 #leftSideBar ul li {
     padding: 4px 0 4px 10px;
-    list-style-image: src="https://github.com/TJ-Amici/MathWebSite/blob/main/arrow.png";
+    list-style-image: href="https://github.com/TJ-Amici/MathWebSite/blob/main/arrow.png";
     padding-left: 10px;
 }
 
