@@ -44,7 +44,7 @@ h1 a {
     padding: 5px;
     font-size: 15px;
     color: #861BBF;
-    background: white url(images/search_25px.png) right center no-repeat;
+    background: white url(./images/search_25px.png) right center no-repeat;
     border: 1px solid #861BBF;
 }
 
